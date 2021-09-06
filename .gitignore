@@ -1,7 +1,7 @@
 db.sqlite3
 geckodriver.log
 .venv/
-.idea/*
+.idea/
 __pycache__
 *.pyc
 .xml
