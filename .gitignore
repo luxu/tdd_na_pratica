@@ -6,3 +6,5 @@ __pycache__
 *.pyc
 .xml
 .iml
+.idea/misc.xml
+.idea/tdd_na_pratica.iml
